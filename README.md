@@ -1,4 +1,10 @@
 # vue-project
+* Enabled page based routing
+* Vue Meta
+* Pinia
+* Tailwind CSS
+* Layouts support
+* Auto import of components
 
 This template should help get you started developing with Vue 3 in Vite.
 
