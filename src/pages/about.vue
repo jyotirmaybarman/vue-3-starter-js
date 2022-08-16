@@ -9,7 +9,11 @@
 </template>
 
 <script setup>
+import { useMeta } from "vue-meta";
 
+useMeta({
+  title:"About"
+})
 </script>
 
 <style lang="postcss" scoped>

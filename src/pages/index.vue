@@ -10,7 +10,11 @@
 </template>
 
 <script setup>
+import { useMeta } from 'vue-meta';
 
+useMeta({
+  title:"Home"
+})
 
 </script>
 
