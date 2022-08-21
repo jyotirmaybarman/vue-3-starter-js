@@ -7,7 +7,7 @@
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
-    "pinia": "^2.0.17",
+    "pinia": "2.0.20",
     "vue": "^3.2.37",
     "vue-meta": "3.0.0-alpha.10",
     "vue-router": "^4.1.3"
